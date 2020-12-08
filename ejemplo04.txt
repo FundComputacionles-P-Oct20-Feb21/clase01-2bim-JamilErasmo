@@ -10,7 +10,8 @@
 9.  notasEstudiantes[5] <-- 10
 10. notasEstudiantes[6] <-- 8
 11. Para(indice<--0, indice<7, 1) haga
-12.     Escribir notasEstudiantes[indice]
+12.     Escribir notasEstudiantes[indice] // notasEstudiante [0]//9
+                                          // notasEstudiante [1]//10
 13. Fin_Para 
 14. Fin
 
